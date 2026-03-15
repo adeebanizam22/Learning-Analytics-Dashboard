@@ -11,18 +11,18 @@ Features:
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
-Tech Stack
+Tech Stack:
 Python
 Streamlit
 Scikit-learn
 Pandas
 Matplotlib
 
-Run Project
+Run Project:
 
 pip install -r requirements.txt
 streamlit run app/dashboard.py
 
-Project Use Case
+Project Use Case:
 
 Learning analytics systems are used in education to monitor engagement, predict outcomes, and improve learning experiences.
