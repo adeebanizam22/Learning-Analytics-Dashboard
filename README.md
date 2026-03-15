@@ -6,6 +6,10 @@ Features:
 - Student learning data analysis
 - Interactive visualization dashboard
 - AI model predicting student success
+  
+  ## Demo Dashboard
+
+![Dashboard Preview](images/dashboard_preview.png)
 
 Tech Stack
 Python
